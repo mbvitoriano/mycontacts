@@ -9,4 +9,4 @@ app.use(routes);
 
 const port = 3000;
 
-app.listen(3000, () => console.log(`🚀 Server is Running at http://localhost:${port}`));
+app.listen(3000, () => console.log(`🚀 Server started at http://localhost:${port}`));
